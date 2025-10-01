@@ -31,4 +31,6 @@ Always access Black Ops through official mirrors shared via trusted sources like
 
 Use only official mirrors: http://blackopsaax7ieeljectvi3vn3a5m2wfssylcdqaswrvlbeptwzv5oid.onion
 
-Update:  Thursday 18 September 2025
+
+
+Update:  01 October 2025 Dead TOR links fixed 
